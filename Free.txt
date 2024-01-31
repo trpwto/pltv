@@ -1,0 +1,197 @@
+````AFC ASIAN CUP`````````
+
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQycyvfIpkpC8Hi3Wkp2_b8n906pp5lrrzbcvoWln1GJgkPOPzYkbnczxgxpUaqzs-bQhU&usqp=CAU",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="AFC Asian Cup 2023", AFC Asian Cup 2023 🇸🇬
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d31e0ee60e034e228e7f219650c0d6e2:c50c247d5a34c1fbd565ad31886287cb
+https://mwmpos03.akamaized.net/out/v1/64a59477c5d34afba754e763bb12ac81/manifest.mpd
+
+#EXTINF:-1 tvg-id="Sportdigital Fußball" tvg-name="" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="AFC Asian Cup 2023", AFC Asian Cup 2023 🇩🇪
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id="SSC 1" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="AFC Asian Cup 2023", AFC Asian Cup 2023 🇸🇦
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-name="Soccer Channel" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="AFC Asian Cup 2023 ", AFC Asian Cup 2023 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd  
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="AFC Asian Cup 2023 ", AFC Asian Cup 2023
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://persiana.mastercast.cloud/memfs/f1accec0-3b52-476b-ada9-65f74ead985e.m3u8
+
+
+
+#EXTINF:-1 tvg-id="Sportstars - [Channel 102].id" tvg-name="Sportstars" tvg-logo="https://i.ibb.co/kynLLVW/afcacqtr23.png" group-title="AFC Asian Cup 2023", AFC Asian Cup 2023 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+```````` NASIONAL ````````
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/bQvyMnY/antv.png" group-title="NASIONAL", ANTV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://i.ibb.co/bQvyMnY/antv.png" group-title="NASIONAL", ANTV 🇮🇩
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch390%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" tvg-name="BTV" tvg-logo="https://i.ibb.co/1n59Tt4/btv.png" group-title="NASIONAL", BTV 🇮🇩
+https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
+
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://i.ibb.co/wp5SdpW/cnbcindo.png" group-title="NASIONAL", CNBC INDONESIA 🇮🇩
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://i.ibb.co/7NvJhWJ/cnnindo.png" group-title="NASIONAL", CNN INDONESIA 🇮🇩
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://i.ibb.co/TBGpbpn/garudatv.png" group-title="NASIONAL", GARUDA TV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="https://i.ibb.co/khnD6CC/gtv.png" group-title="NASIONAL", GTV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://i.ibb.co/xjNQwrH/indosiar.png" group-title="NASIONAL", INDOSIAR 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar
+
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-name="iNews" tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="NASIONAL", INEWS 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+**https://nyanv-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="NASIONAL", KOMPAS TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="NASIONAL", KOMPAS TV 🇮🇩
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch410%29/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MAGNA TV" tvg-logo="https://i.ibb.co/hV6Z2SP/magna.png" group-title="NASIONAL", MAGNA TV 🇮🇩
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/Vvtcxd4/mgn.png" group-title="NASIONAL", METRO GLOBE NETWORK 🇮🇩
+https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/G9NY1P4/metrotv.png" group-title="NASIONAL", METRO TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/G9NY1P4/metrotv.png" group-title="NASIONAL", METRO TV 🇮🇩
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch394%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://i.ibb.co/G9NY1P4/metrotv.png" group-title="NASIONAL", METRO TV 🇮🇩
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MNC" tvg-name="MNC" tvg-logo="https://i.ibb.co/qjg9wCC/mnctv.png" group-title="NASIONAL", MNC TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/4FZRKkn/net.png" group-title="NASIONAL", NET. 🇮🇩
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d58aa3f3b263ea0ad19901c7e180e9d:0efba74ea64cef28b6924de9ccdcc79d
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(3ea35639-9807-470c-a701-50033b12abfb)/manifest.mpd
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/4FZRKkn/net.png" group-title="NASIONAL", NET. 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET.
+
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net." tvg-logo="https://i.ibb.co/4FZRKkn/net.png" group-title="NASIONAL", NET. 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-name="Nusantara TV" tvg-logo="https://i.ibb.co/dJrj97X/nusantaratv.png" group-title="NASIONAL", NUSANTARA TV 🇮🇩
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="https://i.ibb.co/dM0SYrN/rcti.png" group-title="NASIONAL", RCTI 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/b1tcbgm/rtv.png" group-title="NASIONAL", RTV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTINF:-1 tvg-id="RTV" tvg-name="Rajawali TV" tvg-logo="https://i.ibb.co/b1tcbgm/rtv.png" group-title="NASIONAL", RTV 🇮🇩
+https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(41869351-4a9c-4e57-b54b-8cf5dfc919e1)/manifest.mpd
+
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://i.ibb.co/JcdKRXb/sctv.png" group-title="NASIONAL", SCTV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/s/s03/index.m3u8?app_type=web&userid=lite&chname=SCTV
+
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-name="SINDONEWS" tvg-logo="https://i.ibb.co/pbvprNQ/sindonewstv.png" group-title="NASIONAL", SINDONEWS TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k3S01Fh/transtv.png" group-title="NASIONAL", TRANS TV 🇮🇩
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch396%29/index.m3u8
+
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/k3S01Fh/transtv.png" group-title="NASIONAL", TRANS TV 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="NASIONAL", TRANS 7 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans7" tvg-logo="https://i.ibb.co/V37y7jf/trans7.png" group-title="NASIONAL", TRANS 7 🇮🇩
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch397%29/index.m3u8
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="NASIONAL", TV ONE 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://nyanv-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TV One" tvg-logo="https://i.ibb.co/HFjSW0t/tvone.png" group-title="NASIONAL", TV ONE 🇮🇩
+https://ythls-v2.onrender.com/channel/UCER4rvDnRBPr_ncYW4UCZjg.m3u8
+
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4F68vbH/tvri.png" group-title="NASIONAL", TVRI NASIONAL 🇮🇩
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/KxLH0R7/ugtv.png" group-title="NASIONAL", UGTV 🇮🇩
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8
